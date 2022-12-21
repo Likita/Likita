@@ -18,4 +18,4 @@ At Cute Geek IT Agency, we do different web projects for clients (React, 3D/Thre
 
 I like travelling, diving, animals, and playing video games 🎮. And I love my ginger cat ❤️
 
-🌱 Currently, I want to switch to the Developer Advocate or Developer Relations Manager position. [My CV](https://vasilika.ru/CV%20Vasilika%20Klimova.pdf)
+🌱 Currently, I am looking for a fully remote position in development or engineering management. [My CV](https://vasilika.ru/CV%20Vasilika%20Klimova.pdf)
