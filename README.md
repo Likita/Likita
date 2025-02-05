@@ -1,17 +1,15 @@
 ### Hi there 👋
 
-I have been a Web Developer 👩🏻‍💻 since 2010 (Full Stack/Frontend).
+Technical Manager with **14 years** in Software development (FullStack/Frontend) 👩🏻‍💻, I have led engineering teams, optimized development workflows, and delivered scalable web solutions. My expertise spans project and team management, Agile leadership, and technical strategy, with a focus on streamlining processes, improving team collaboration, and ensuring on-time delivery.
 
-I am a speaker at different IT/tech conferences as well. In 2022 I became a Google Developer Expert. 🎉
+🔹 Looking for opportunities as a **Project Manager**, Product Owner, or Engineering Manager where I can drive impactful software development, mentor teams, and optimize technical processes.
 
-In 2019 I founded [SkillUp Web School](https://skillup.lu/) in Luxembourg and [Cute Geek IT Agency](https://cute-geek.com/).
+🎤 Public Speaker & Community Organizer – Google Developer Expert since 2022, Microsoft MVP, and speaker at **50+** IT meetups and conferences. Passionate about knowledge sharing and developer advocacy.
 
-At SkillUp School, I help people without any IT background to be involved in our industry.
+💡 **Founder** of [SkillUp Web School](https://skillup.lu/) (teaching tech newcomers) & [Cute Geek IT Agency](https://cute-geek.com/) (delivering web solutions in React, 3D/Three.js, and WordPress).
 
-At Cute Geek IT Agency, we do different web projects for clients (React, 3D/Three.js, e-commerce, WordPress).
+📢 Organizer of [Lux TechPulse Meetup](https://meetup.com/luxtechpulse), tech community in Luxembourg.
 
-I am an organizer of JavaScript meetups and conferences. Currently, I am a co-organizer of the [LuxembourgJS meetup](https://www.meetup.com/luxembourgjs).
+🌍 Interests: Tech leadership, AI, blockchain, 3D web, diving, gaming 🎮, and my ginger cat 🐈.
 
-I like traveling, diving, animals, and playing video games 🎮. And I ❤️ my ginger cat 🐈
-
-🌱 You can check [my website](https://vasilika.dev).
+🌱 More about me and my CV: [vasilika.dev](https://vasilika.dev)
