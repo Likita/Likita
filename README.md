@@ -6,10 +6,10 @@ Technical Manager with **14 years** in Software development (FullStack/Frontend)
 
 🎤 Public Speaker & Community Organizer – Google Developer Expert since 2022, Microsoft MVP, and speaker at **50+** IT meetups and conferences. Passionate about knowledge sharing and developer advocacy.
 
-💡 **Founder** of [SkillUp Web School](https://skillup.lu/) (teaching tech newcomers) & [Cute Geek IT Agency](https://cute-geek.com/) (delivering web solutions in React, 3D/Three.js, and WordPress).
+💡 **Founder** of [SkillUp Web School](https://skillup.lu/){:target="_blank"} (teaching tech newcomers) & [Cute Geek IT Agency](https://cute-geek.com/){:target="_blank"} (delivering web solutions in React, 3D/Three.js, and WordPress).
 
-📢 Organizer of [Lux TechPulse Meetup](https://meetup.com/luxtechpulse), tech community in Luxembourg.
+📢 Organizer of [Lux TechPulse Meetup](https://meetup.com/luxtechpulse){:target="_blank"}, tech community in Luxembourg.
 
 🌍 Interests: Tech leadership, AI, blockchain, 3D web, diving, gaming 🎮, and my ginger cat 🐈.
 
-🌱 More about me and my CV: [vasilika.dev](https://vasilika.dev)
+🌱 More about me and my CV: [vasilika.dev](https://vasilika.dev){:target="_blank"}
